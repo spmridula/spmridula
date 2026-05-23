@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**spmridula/spmridula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
++----------------------------------------+
+|                                        |
+|  Mridula S. P.                         |
+|  Aspiring AI/ML Engineer               |
+|                                        |
++----------------------------------------+
+</pre>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+Building intelligent systems. Currently focused on machine learning
+pipelines, model deployment, and scalable data infrastructure.
+
+Exploring cloud architecture on AWS and contributing to open source
+projects in the ML ecosystem.
+
+---
+
+## Stack
+
+Core        | Python      | ████████████████████
+Languages   | Java        | ██████████████░░░░░░
+            |             |
+ML/Data     | TensorFlow  | ██████████████████░░
+Frameworks  | PyTorch     | ████████████░░░░░░░░
+            | Pandas      | ███████████████████░
+            | NumPy       | ███████████████████░
+            |             |
+Databases   | PostgreSQL  | ████████████████░░░░
+            |             |
+Cloud       | AWS         | ██████████░░░░░░░░░░
+            |             |
+Tools       | Docker      | ███████████████░░░░░
+            | Git         | ███████████████████░
+            | Linux       | ████████████████░░░░
+
+---
+
+## Current Focus
+
+[2026]
+├── AWS Solutions Architect certification
+├── Open source Contribution
+├── MLOps pipeline design
+└── Distributed training systems
+
+
+---
+
+## Contact
+
+[spmridula7413@gmail.com] · [linkedin.com/in/spmridula] · [kaggle.com/mridulasp]
+
+---
