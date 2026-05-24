@@ -57,6 +57,12 @@ Tools
 
 ## Contribution Snake
 
+<pre>
+████████████████████████████████████
+█   Watch the snake eat commits!   █
+████████████████████████████████████
+</pre>
+
 <div align="center">
   <img src="https://github.com/mridulasp/mridulasp/blob/output/snake.svg" alt="GitHub Contribution Snake" />
 </div>
