@@ -55,6 +55,14 @@ Tools
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/mridulasp/mridulasp/blob/output/snake.svg" alt="GitHub Contribution Snake" />
+</div>
+
+---
+
 ## Contact
 
 📧 spmridula7413@gmail.com  
