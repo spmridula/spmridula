@@ -64,7 +64,7 @@ Tools
 </pre>
 
 <div align="center">
-  <img src="https://github.com/mridulasp/mridulasp/blob/output/snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/spmridula/spmridula/output/snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
 ---
