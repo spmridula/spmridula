@@ -67,7 +67,13 @@ Tools
   <img src="https://raw.githubusercontent.com/spmridula/spmridula/output/snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
----
+--- 
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=spmridula&color=000000&style=flat-square&label=Profile+Views)
+
+</div>
+
 
 ## Contact
 
