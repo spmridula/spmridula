@@ -13,7 +13,7 @@
 
 ---
 
-## About
+## ⌗ About
 
 Building intelligent systems.  
 Focused on machine learning pipelines, model deployment, and scalable data infrastructure.  
@@ -21,7 +21,7 @@ Exploring cloud architecture on AWS and contributing to open source projects in 
 
 ---
 
-## Stack
+## ⌗ Stack
 <pre>
 Core Languages  
 ├── Python      ████████████████████  
@@ -46,7 +46,7 @@ Tools
 </pre>
 ---
 
-## Current Focus (2026)
+## ⌗ Current Focus (2026)
 
 ├── AWS Solutions Architect certification  
 ├── Open Source Contribution  
@@ -54,8 +54,6 @@ Tools
 └── Distributed training systems  
 
 ---
-
-## Contribution Snake
 
 <pre>
 ████████████████████████████████████
@@ -76,29 +74,23 @@ Tools
 
 ---
 
-## Badges
+## ⌗ Badges
 
-## 🏅 GSSoC'26 Badges
+## GSSoC'26 Badges
 I am proud to be a contributor in **GirlScript Summer of Code 2026**.  
 Here are the badges I've earned:
 
-### Contributor
-![Contributor Badge](./badges/gssoc-badge-role_contributor.png)
-
-### Point Scorer
-![Point Scorer Badge](./badges/gssoc-badge-point_scorer.png)
-
-### First Step
-![First Step Badge](./badges/gssoc-badge-first_steps.png)
-
-### Rising Star
-![Rising Star Badge](./badges/gssoc-badge-rising_star.png)
-
+<p align="left">
+  <img src="./badges/gssoc-badge-role_contributor.png" alt="Contributor Badge" width="120"/>
+  <img src="./badges/gssoc-badge-point_scorer.png" alt="Point Scorer Badge" width="120"/>
+  <img src="./badges/gssoc-badge-first_steps.png" alt="First Step Badge" width="120"/>
+  <img src="./badges/gssoc-badge-rising_star.png" alt="Rising Star Badge" width="120"/>
+</p>
 
 ---
 
-## Contact
+## ⌗ Contact
 
-📧 spmridula7413@gmail.com  
-🔗 linkedin.com/in/spmridula  
-📊 kaggle.com/mridulasp
+✉︎ spmridula7413@gmail.com  
+⫘ linkedin.com/in/spmridula  
+🗐 kaggle.com/mridulasp
