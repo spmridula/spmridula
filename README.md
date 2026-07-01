@@ -74,6 +74,28 @@ Tools
 
 </div>
 
+---
+
+## Badges
+
+## 🏅 GSSoC'26 Badges
+I am proud to be a contributor in **GirlScript Summer of Code 2026**.  
+Here are the badges I've earned:
+
+### Contributor
+![Contributor Badge](./badges/gssoc-badge-role_contributor.png)
+
+### Point Scorer
+![Point Scorer Badge](./badges/gssoc-badge-point_scorer.png)
+
+### First Step
+![First Step Badge](./badges/gssoc-badge-first_steps.png)
+
+### Rising Star
+![Rising Star Badge](./badges/gssoc-badge-rising_star.png)
+
+
+---
 
 ## Contact
 
